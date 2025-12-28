@@ -1,5 +1,5 @@
 const minnum = 0
-const maxnum = 29
+const maxnum = 10
 let running = true
 
 let guess
